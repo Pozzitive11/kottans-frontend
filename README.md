@@ -1,4 +1,9 @@
-## Git Basics 
+# Hi there, I'm Vladyslav 
+![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+I decided to connect my life with programming, or rather with the frontend. And one fine day I came across a course from Kottans. Below is a list and description of the completed works
+
+## Git Basics
+
 Hi, i finished the chapter about Git and GitHub.It was difficult but very interesting!
 
 ### 1.[Listen to the Version Control with Git course](https://www.udacity.com/course/version-control-with-git--ud123)
@@ -81,7 +86,7 @@ Great sites for understanding how flex and grid work.
 
 ## HTML-CSS-Popup
 
-[Demo](https://pozzitive11.github.io/pure-popup/)
+[Demo](https://pozzitive11.github.io/pure-popup/) |
 [Code base](https://github.com/Pozzitive11/pure-popup)
 
 It was interesting, but quite a difficult task. Especially understanding how to make a checkbox correctly
@@ -141,3 +146,24 @@ When creating the game, I learned how to work with coordinates, repeated Classes
 [Code base](https://github.com/Pozzitive11/frogger-game-)
 
 ---
+
+## OOP exercise
+
+Learned a lot about OOP. Not the first time, but used the Dry and SOLID principles
+
+[Demo](https://pozzitive11.github.io/tiny-JS-world-OOP-/) |
+[Code base](https://github.com/Pozzitive11/tiny-JS-world-OOP-)
+
+## Memory – Pair Game
+
+One of the most interesting tasks. Developing games and working with javascript in a new way for me - that's what I wanted!
+
+[Demo](https://pozzitive11.github.io/memory-game/) |
+[Code base](https://github.com/Pozzitive11/memory-game)
+
+## Friends App
+
+The icing on the course cake. Collect all knowledge and implement it in one project. It was really exciting!
+
+[Demo](https://pozzitive11.github.io/friends-app/) |
+[Code base](https://github.com/Pozzitive11/friends-app)
